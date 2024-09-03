@@ -1,0 +1,4 @@
+Invoking command in '/home/nicolas/ros2/project/mobility/build/mobility': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nicolas/ros2/project/mobility/build/mobility -- -j8 -l8
+Invoked command in '/home/nicolas/ros2/project/mobility/build/mobility' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nicolas/ros2/project/mobility/build/mobility -- -j8 -l8
+Invoking command in '/home/nicolas/ros2/project/mobility/build/mobility': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nicolas/ros2/project/mobility/build/mobility
+Invoked command in '/home/nicolas/ros2/project/mobility/build/mobility' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nicolas/ros2/project/mobility/build/mobility
